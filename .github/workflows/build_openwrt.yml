@@ -24,8 +24,8 @@ on:
         default: 'true'
 
 env:
-  #REPO_URL: https://github.com/coolsnowwolf/lede
-  REPO_URL: https://github.com/ofmodemsandmen/ROOterSource2102
+  REPO_URL: https://github.com/coolsnowwolf/lede
+  
   REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
